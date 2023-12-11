@@ -1,7 +1,7 @@
 # comfortable_metro
 수도권 지하철 시간대별 혼잡도 분석 및 시각화
 
-<img src="https://raw.githubusercontent.com/kitsune03k/comportable_metro/main/comportable_metro_folium.png">
+<img src="https://raw.githubusercontent.com/kitsune03k/comfortable_metro/main/comfortable_metro_folium.png">
 
 **혼잡도는 통계학적으로 아무 의미가 없이 막 만든 공식으로 나옴** 
 
