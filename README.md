@@ -1,5 +1,8 @@
 # comfortable_metro
-수도권 지하철 시간대별 혼잡도 분석 및 시각화
+
+23학년도 숭실대 교양필수 SW와AI
+
+5조 : 수도권 지하철 시간대별 혼잡도 분석 및 시각화
 
 <img src="https://raw.githubusercontent.com/kitsune03k/comfortable_metro/main/comfortable_metro_folium.png">
 
